@@ -3,10 +3,6 @@
 <p>a Freelance web dev and a cyber security enthusiast based on kerala. I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. You can see a full list of what I am up to on <a href="mohammedsuhailkh.me">mohammedsuhailkh.me</a></p> .
 <br>
 
-- 👀 I’m interested in studying about all the latest technologies
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 
 
