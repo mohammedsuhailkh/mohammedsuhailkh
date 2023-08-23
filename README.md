@@ -1,6 +1,6 @@
 # Heyy there, I'm Suhail! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p>a Freelance web dev and a cyber security enthusiast based on kerala. I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. You can see a full list of what I am up to on <a href="https://bit.ly/mohammedsuhailkh">mohammedsuhailkh.me</a></p> .
+<p>a Freelance web dev and a cyber security enthusiast based on kerala. I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. You can see a full list of what I am up to on <a href="https://bit.ly/mohammedsuhailkhme">mohammedsuhailkh.me</a></p> .
 <br>
 
 
